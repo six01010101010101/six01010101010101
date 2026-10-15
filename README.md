@@ -29,12 +29,12 @@
     <img src="https://img.shields.io/badge/ATUA%C3%87%C3%83O-FULL_STACK_%26_TRAFFIC_MANAGER-FF2A54?style=for-the-badge&labelColor=080506" />
   </p>
 
-  <!-- CONTADORES REAIS ALINHADOS EM GRID -->
+  <!-- CONTADORES REAIS (VISITAS, VIEWS, COMMENTS, COMMITS, PROJETOS) -->
   <table width="100%">
     <thead>
       <tr>
         <th align="center" width="20%">👁️ VISITANTES</th>
-        <th align="center" width="20%">📈 VIEWS</th>
+        <th align="center" width="20%">📈 SEGUIDORES / VIEWS</th>
         <th align="center" width="20%">💬 COMENTÁRIOS</th>
         <th align="center" width="20%">⚡ COMMITS</th>
         <th align="center" width="20%">📂 PROJETOS</th>
@@ -69,7 +69,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="Divider" />
 
 <!-- ===================================================================== -->
-<!--       TECH STACK & EXPERIÊNCIAS (GRID DE 3 COLUNAS ALINHADAS)         -->
+<!--       TECH STACK & EXPERIÊNCIAS (DEV, DESIGN & TRÁFEGO PAGO)          -->
 <!-- ===================================================================== -->
 
 <div align="center">
@@ -85,23 +85,23 @@
     </thead>
     <tbody>
       <tr>
-        <td align="center" valign="top">
+        <td align="center">
           <br/>
-          <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,supabase,git,github,vscode&theme=dark&perline=3" alt="Dev Stack" />
+          <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,supabase,git,github,vscode&theme=dark&perline=3" />
           <br/><br/>
           <code>HTML5 • CSS3 • JavaScript • Supabase</code>
           <br/><br/>
         </td>
-        <td align="center" valign="top">
+        <td align="center">
           <br/>
-          <img src="https://skillicons.dev/icons?i=figma,ps,ai,tailwind,vercel&theme=dark&perline=3" alt="Design Stack" />
+          <img src="https://skillicons.dev/icons?i=figma,ps,ai,tailwind,vercel&theme=dark&perline=3" />
           <br/><br/>
           <code>Graphic & Branding Design • UX & UI Design • Visual & Web Design</code>
           <br/><br/>
         </td>
-        <td align="center" valign="top">
+        <td align="center">
           <br/>
-          <img src="https://img.shields.io/badge/META_ADS-1877F2?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads" />
+          <img src="https://img.shields.io/badge/META_ADS-1877F2?style=for-the-badge&logo=meta&logoColor=white" />
           <br/><br/>
           <code>Traffic Manager • Funis de Conversão • Gestão de Tráfego Pago</code>
           <br/><br/>
@@ -114,44 +114,48 @@
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="Divider" />
 
 <!-- ===================================================================== -->
-<!--        STREAK, TROFÉUS & STATS (GRID SIMÉTRICO 50/50)                 -->
+<!--        STREAK, TROFÉUS & STATS (ROTAS OTIMIZADAS E ESTÁVEIS)          -->
 <!-- ===================================================================== -->
 
 <div align="center">
   <h2>🏆 <code>[ TROFÉUS, STREAK & PRODUTIVIDADE ]</code></h2>
 
-  <!-- TROFÉUS -->
+  <!-- 1. TROFÉUS -->
   <picture>
     <img width="100%" src="https://github-trophies.vercel.app/?username=kenkobayashi1&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
   </picture>
 
   <p>
-    <img src="https://img.shields.io/github/stars/kenkobayashi1?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS_CONQUISTADAS&color=FF003C&labelColor=080506" alt="Stars" />
-    <img src="https://img.shields.io/badge/RANK_ATUAL-FULL_STACK_%26_UI%2FUX-FF2A54?style=for-the-badge&logo=Trophy&logoColor=white&labelColor=080506" alt="Rank" />
-    <img src="https://img.shields.io/badge/SUPABASE-INTEGRATED-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=080506" alt="Supabase" />
+    <img src="https://img.shields.io/github/stars/kenkobayashi1?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS_CONQUISTADAS&color=FF003C&labelColor=080506" />
+    <img src="https://img.shields.io/badge/RANK_ATUAL-FULL_STACK_%26_UX%2FUI-FF2A54?style=for-the-badge&logo=Trophy&logoColor=white&labelColor=080506" />
+    <img src="https://img.shields.io/badge/SUPABASE-INTEGRATED-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=080506" />
   </p>
 
-  <!-- GRID DE STATS (50% / 50%) -->
+  <!-- 2. STREAK STATS + RESUMO GERAL DE COMMITS -->
   <table width="100%">
     <tr>
-      <td width="50%" align="center" valign="top">
+      <td width="50%" align="center">
         <img width="100%" src="https://streak-stats.demolab.com/?user=kenkobayashi1&theme=radical&hide_border=false&border_radius=8" alt="GitHub Streak" />
       </td>
-      <td width="50%" align="center" valign="top">
+      <td width="50%" align="center">
         <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenkobayashi1&theme=radical" alt="Profile Summary" />
       </td>
     </tr>
+  </table>
+
+  <!-- 3. STATS & LINGUAGENS MAIS USADAS -->
+  <table width="100%">
     <tr>
-      <td width="50%" align="center" valign="top">
+      <td width="50%" align="center">
         <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kenkobayashi1&theme=radical" alt="GitHub Stats" />
       </td>
-      <td width="50%" align="center" valign="top">
+      <td width="50%" align="center">
         <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kenkobayashi1&theme=radical" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
-  <!-- GRÁFICO DE ATIVIDADE & SNAKE -->
+  <!-- 4. GRÁFICO DE ATIVIDADE E SNAKE -->
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kenkobayashi1&bg_color=080506&color=FF003C&line=FF003C&point=FFFFFF&area=true&area_color=8B0000&hide_border=false&border_radius=8" alt="Activity Graph" />
 
   <br/><br/>
@@ -172,12 +176,35 @@
 <div align="center">
   <h2>💬 <code>[ FEEDBACK & CONEXÃO DIRETA ]</code></h2>
 
-  <!-- BOTÕES DE FEEDBACK -->
+  <!-- BOTÕES DE FEEDBACK DIRETO -->
   <p>
     <a href="https://github.com/kenkobayashi1/kenkobayashi1/issues/new?title=%E2%AD%90+%5BFEEDBACK%5D+Avalia%C3%A7%C3%A3o+do+Perfil&body=Deixe+sua+nota+(1+a+5)+e+seu+coment%C3%A1rio%3A" target="_blank">
-      <img src="https://img.shields.io/badge/%E2%AD%90_AVALIAR_PERFIL-FF003C?style=for-the-badge&labelColor=080506" alt="Feedback" />
+      <img src="https://img.shields.io/badge/%E2%AD%90_AVALIAR_PERFIL-FF003C?style=for-the-badge&labelColor=080506" />
     </a>
     <a href="https://github.com/kenkobayashi1/kenkobayashi1/issues/new?title=%F0%9F%92%A1+%5BSUGEST%C3%83O%5D+Nova+Ideia&body=Descreva+sua+sugest%C3%A3o%3A" target="_blank">
-      <img src="https://img.shields.io/badge/%F0%9F%92%A1_SUGERIR_MELHORIA-FF2A54?style=for-the-badge&labelColor=080506" alt="Suggestion" />
+      <img src="https://img.shields.io/badge/%F0%9F%92%A1_SUGERIR_MELHORIA-FF2A54?style=for-the-badge&labelColor=080506" />
     </a>
-    <a href="https
+    <a href="https://github.com/kenkobayashi1/kenkobayashi1/issues/new?title=%F0%9F%A4%9D+%5BPROJETO%5D+Proposta+de+Parceria&body=Vamos+construir+algo+juntos!+Deixe+sua+contato%3A" target="_blank">
+      <img src="https://img.shields.io/badge/%F0%9F%A4%9D_PROPOR_PROJETO-FF003C?style=for-the-badge&labelColor=080506" />
+    </a>
+  </p>
+
+  <!-- REDES SOCIAIS OFICIAIS CONFIGURADAS -->
+  <p>
+    <a href="https://www.linkedin.com/in/ken-kobayashi-0bb0802a5" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-080506?style=for-the-badge&logo=linkedin&logoColor=FF003C" />
+    </a>
+    <a href="https://www.behance.net/kenkobayashi1" target="_blank">
+      <img src="https://img.shields.io/badge/BEHANCE-080506?style=for-the-badge&logo=behance&logoColor=FF2A54" />
+    </a>
+    <a href="https://www.instagram.com/dracos6x/" target="_blank">
+      <img src="https://img.shields.io/badge/INSTAGRAM-080506?style=for-the-badge&logo=instagram&logoColor=FF003C" />
+    </a>
+    <a href="mailto:kenkobayashi2005@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-080506?style=for-the-badge&logo=gmail&logoColor=FF2A54" />
+    </a>
+  </p>
+</div>
+
+<!-- RODAPÉ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,50:2A040A,100:080506&height=120&section=footer&text=KEN%20KOBAYASHI%20//%20FULL%20STACK%20%26%20UX/UI%20%26%20META%20ADS&fontSize=15&fontColor=FF003C&fontAlignY=65" alt="Footer" />
